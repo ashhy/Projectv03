@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/E:\\Android files\\Projectv02\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "/Users/yashjain/Desktop/Projectv03/C:\\Android\\.android\\build-cache\\f089966b3139b67911444713c680e134bca46f93\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/E:\\Android files\\Projectv02\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "/Users/yashjain/Desktop/Projectv03/C:\\Android\\.android\\build-cache\\f089966b3139b67911444713c680e134bca46f93\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/yashjain/.android/build-cache/b6d20518a7c7bcc9a05e8b2e4c0a8b7e34d8de52/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/yashjain/.android/build-cache/597e3cf3e8d32bd3e6b19578f8c234729f5e7d45/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/E:\\Android files\\Projectv02\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "/Users/yashjain/Desktop/Projectv03/C:\\Android\\.android\\build-cache\\37b509fbd7d4ce3be01bc9cc8ec58672ec6a1598\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/yashjain/.android/build-cache/b6d20518a7c7bcc9a05e8b2e4c0a8b7e34d8de52/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/E:\\Android files\\Projectv02\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "/Users/yashjain/Desktop/Projectv03/C:\\Android\\.android\\build-cache\\f089966b3139b67911444713c680e134bca46f93\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/yashjain/.android/build-cache/b6d20518a7c7bcc9a05e8b2e4c0a8b7e34d8de52/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/E:\\Android files\\Projectv02\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "/Users/yashjain/Desktop/Projectv03/C:\\Android\\.android\\build-cache\\f089966b3139b67911444713c680e134bca46f93\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/yashjain/.android/build-cache/b6d20518a7c7bcc9a05e8b2e4c0a8b7e34d8de52/output/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

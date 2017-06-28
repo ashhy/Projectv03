@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/seBckg"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/seTitle"
+        android:text="@string/seTitle"
+        android:textAlignment="center"
+        android:textSize="@dimen/seTitleTextSize"
+        android:padding="@dimen/seTitlePadding"
+        android:textStyle="bold"
+        android:textColor="@color/seTitleText" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/seDescription"
+        android:padding="@dimen/seDescriptionPadding"
+        android:textColor="@color/seDescriptionText"
+        android:textSize="@dimen/seDescriptionTextSize"
+        android:text="@string/seDescription" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/seInnerLL"
+        android:weightSum="3"
+        android:padding="@dimen/seInnerLLPadding"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="@dimen/seInnerLLTextSize"
+            android:textColor="@color/seInnerLLText"
+            android:text="@string/seTotalQ"
+            android:id="@+id/seTotalQ" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="@dimen/seInnerLLTextSize"
+            android:textColor="@color/seInnerLLText"
+            android:text="@string/seLanguage"
+            android:id="@+id/seLanguage" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:textSize="@dimen/seInnerLLTextSize"
+            android:textColor="@color/seInnerLLText"
+            android:text="@string/seVersion"
+            android:id="@+id/seVersion" />
+
+    </LinearLayout>
+</LinearLayout>

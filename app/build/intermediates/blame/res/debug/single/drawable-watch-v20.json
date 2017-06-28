@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/E:\\Android files\\Projectv02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/yashjain/Desktop/Projectv03/C:\\Android\\.android\\build-cache\\236243bf303a08523fa1ce8e12882d50160aafab\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/E:\\Android files\\Projectv02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/yashjain/Desktop/Projectv03/C:\\Android\\.android\\build-cache\\236243bf303a08523fa1ce8e12882d50160aafab\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/yashjain/.android/build-cache/eac5ee99cea41b87631a18cc10f21ab882d8e23b/output/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/E:\\Android files\\Projectv02\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/yashjain/Desktop/Projectv03/C:\\Android\\.android\\build-cache\\236243bf303a08523fa1ce8e12882d50160aafab\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/yashjain/.android/build-cache/eac5ee99cea41b87631a18cc10f21ab882d8e23b/output/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/app/build/intermediates/res/merged/debug/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/yashjain/.android/build-cache/eac5ee99cea41b87631a18cc10f21ab882d8e23b/output/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

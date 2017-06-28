@@ -1,0 +1,21 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <!--Survey List Element -->
+    <dimen name="seTitleTextSize">20sp</dimen>
+    <dimen name="seTitlePadding">10dp</dimen>
+    <dimen name="seDescriptionTextSize">15sp</dimen>
+    <dimen name="seDescriptionPadding">10dp</dimen>
+    <dimen name="seInnerLLPadding">5dp</dimen>
+    <dimen name="seInnerLLTextSize">15sp</dimen>
+
+
+    <!--Survey List-->
+    <dimen name="slSurveyListPadding">10dp</dimen>
+    <dimen name="slSurveyListDividerHeight">10.0sp</dimen>
+</resources>

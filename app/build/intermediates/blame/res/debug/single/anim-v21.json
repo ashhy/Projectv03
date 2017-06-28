@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/E:\\Android files\\Projectv02\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "/Users/yashjain/Desktop/Projectv03/C:\\Android\\.android\\build-cache\\b9af1e73b2287958d67028f6cb3678a787813396\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/yashjain/.android/build-cache/8ee406a936b34b4360af7ef20086440793b6c2af/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/yashjain/.android/build-cache/8ee406a936b34b4360af7ef20086440793b6c2af/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/yashjain/Desktop/Projectv03/E:\\Android files\\Projectv02\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "/Users/yashjain/Desktop/Projectv03/C:\\Android\\.android\\build-cache\\b9af1e73b2287958d67028f6cb3678a787813396\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    }
+]
